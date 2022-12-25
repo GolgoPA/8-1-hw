@@ -3,4 +3,4 @@
 # Задание 2
 [Задание 2](https://github.com/GolgoPA/8-1-hw/commit/159dbe246744868547b141a20b0505adf98fddfa)
 # Задание 3 
-[Задание 3]()
+[Задание 3](https://github.com/GolgoPA/8-1-hw/network)
